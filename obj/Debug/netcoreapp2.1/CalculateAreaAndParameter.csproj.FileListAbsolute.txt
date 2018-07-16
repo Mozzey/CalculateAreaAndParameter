@@ -1,0 +1,11 @@
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\bin\Debug\netcoreapp2.1\CalculateAreaAndParameter.deps.json
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\bin\Debug\netcoreapp2.1\CalculateAreaAndParameter.runtimeconfig.json
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\bin\Debug\netcoreapp2.1\CalculateAreaAndParameter.runtimeconfig.dev.json
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\bin\Debug\netcoreapp2.1\CalculateAreaAndParameter.dll
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\bin\Debug\netcoreapp2.1\CalculateAreaAndParameter.pdb
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.csprojAssemblyReference.cache
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.csproj.CoreCompileInputs.cache
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.AssemblyInfoInputs.cache
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.AssemblyInfo.cs
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.dll
+C:\Users\Mozzey\source\repos\CalculateAreaAndParameter\obj\Debug\netcoreapp2.1\CalculateAreaAndParameter.pdb
