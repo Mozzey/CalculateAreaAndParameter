@@ -20,7 +20,7 @@ namespace CalculateAreaAndParameter
                 var width = GetWidth();
                 var area = GetArea(length, width);
                 var perimeter = GetPerimeter(length, width);
-                // Display results/answers
+                // Display results
                 Console.WriteLine($"Area : {area}");
                 Console.WriteLine($"Perimeter : {perimeter}");
                 // Ask if the user would like to run the program again
@@ -48,9 +48,13 @@ namespace CalculateAreaAndParameter
             // Ask for Length input
             Console.Write("Enter Length : ");
 
-            // Convert the string into a double
-            double length = Convert.ToDouble(Console.ReadLine());
-            return length;
+            // Convert the string into a double and validate that it is a number
+            string length = Console.ReadLine();
+            if (!(Double.TryParse(length, out double result)))
+            {
+                Console.WriteLine("Sorry but the input must be a number");
+            }
+            return result;
         }
 
         private static double GetWidth()
@@ -59,8 +63,12 @@ namespace CalculateAreaAndParameter
             Console.Write("Enter Width : ");
 
             // Convert the string into a double
-            double width = Convert.ToDouble(Console.ReadLine());
-            return width;
+            string width = Console.ReadLine();
+            if (!(Double.TryParse(width, out double result)))
+            {
+                Console.WriteLine("Sorry but the input must be a number");
+            }
+            return result;
         }
 
         private static double GetArea(double length, double width)
